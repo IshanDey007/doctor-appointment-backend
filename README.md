@@ -327,6 +327,3 @@ API_URL=https://your-api-url.onrender.com
 
 MIT License - feel free to use this project for learning and development.
 
----
-
-**Built with ❤️ for Modex Assessment**
